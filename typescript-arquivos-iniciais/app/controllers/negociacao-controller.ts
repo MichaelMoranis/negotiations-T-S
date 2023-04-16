@@ -24,6 +24,7 @@ export class NegociacaoController {
         this.negociacoesView.update(this.negociacoes);
         this.mensagemView.update("negociacao adicionada com sucesso")
         console.log(this.negociacoes.lista());
+        console.log(this.negociacoes)
         this.limparFormulario();
     }
 
