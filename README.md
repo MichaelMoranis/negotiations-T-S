@@ -1,4 +1,4 @@
-# negotiations-with-typescript-text
+# negotiations-T-S
 para rodar a aplicacao digite
 ```
 npm start
